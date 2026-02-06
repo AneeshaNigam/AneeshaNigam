@@ -42,11 +42,5 @@ I am a passionate web developer with a strong interest in AI-integrated web appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshaNigam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-## 🏆 LeetCode Stats
-
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/aneeshanigam?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/aneeshanigam/)
-  ![LeetCode Animation](https://assets.leetcode.com/users/images/71c62ed7-80f2-4c84-a46e-07635932c4e5_1740028280.2879555.gif)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
